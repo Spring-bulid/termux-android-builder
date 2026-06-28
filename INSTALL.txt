@@ -1,0 +1,11 @@
+#!/data/data/com.termux/files/usr/bin/bash
+# Termux Android 编译包 - 快速安装
+# 复制以下命令到 Termux 中运行:
+
+# 1. 安装基础工具
+pkg update -y && pkg install -y git wget curl
+
+# 2. 克隆并安装
+git clone https://github.com/your-username/termux-android-builder.git ~/termux-android-builder && \
+cd ~/termux-android-builder && \
+bash install.sh
