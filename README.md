@@ -210,53 +210,251 @@ swapon /sdcard/swapfile
 
 欢迎提交 Issue 和 Pull Request！
 
-### 贡献者
+## 致谢
 
-感谢所有为本项目做出贡献的人！
+### 项目创建者
 
 - **Spring-bulid** - 项目创建者和维护者
 
-## 致谢
+### Termux 官方团队
 
-### 官方项目
+感谢 Termux 官方团队的不懈努力：
+- [Termux](https://github.com/termux) - 官方 GitHub 组织
+- [termux-app](https://github.com/termux/termux-app) - 主应用程序
+- [termux-packages](https://github.com/termux/termux-packages) - 软件包构建系统
+- [termux-api](https://github.com/termux/termux-api) - API 扩展
 
-- [Termux](https://termux.com/) - Android 上的终端模拟器
-  - GitHub: https://github.com/termux/termux-app
-  - 贡献者: https://github.com/termux/termux-app/graphs/contributors
+### Termux 赞助者
 
-- [Termux Packages](https://github.com/termux/termux-packages) - Termux 软件包仓库
-  - 贡献者: https://github.com/termux/termux-packages/graphs/contributors
+感谢以下赞助者对 Termux 项目的支持：
 
-- [proot](https://proot-me.github.io/) - 用户空间实现的 chroot
-  - GitHub: https://github.com/proot-me/proot
-  - 贡献者: https://github.com/proot-me/proot/graphs/contributors
+**当前赞助者:**
+- [@txoof](https://github.com/txoof)
+- [@luisoala](https://github.com/luisoala)
+- [@akovalenko](https://github.com/akovalenko)
+- [@dedsec1121fk](https://github.com/dedsec1121fk)
+- [@thomas-ovens](https://github.com/thomas-ovens)
+- [@maxamillion](https://github.com/maxamillion)
+- [@yamsergey](https://github.com/yamsergey)
+- [@sdiggly](https://github.com/sdiggly)
+- [@hagaddour](https://github.com/hagaddour)
+- [@JunkFood02](https://github.com/JunkFood02)
+- [@snydergd](https://github.com/snydergd)
+- [@john-peterson](https://github.com/john-peterson)
+- [@zark0s](https://github.com/zark0s)
+- [@rosetintedcheeks](https://github.com/rosetintedcheeks)
+- [@s-alad](https://github.com/s-alad)
+- [@rodrigojfagundes](https://github.com/rodrigojfagundes)
+- [@h0tk3y](https://github.com/h0tk3y)
+- [@mkt](https://github.com/mkt)
+- [@eave](https://github.com/eave)
+- [@sng2c](https://github.com/sng2c)
+- [@digitalby](https://github.com/digitalby)
+- [@chapmanjacobd](https://github.com/chapmanjacobd)
+- [@CorvetteCole](https://github.com/CorvetteCole)
+- [@pschmitt](https://github.com/pschmitt)
+- [@upsuper](https://github.com/upsuper)
+- [@darkgeek](https://github.com/darkgeek)
+- [@JM0804](https://github.com/JM0804)
+- [@kennethso168](https://github.com/kennethso168)
 
+**历史赞助者:**
+- [@nanotee](https://github.com/nanotee)
+- [@fcelega](https://github.com/fcelega)
+- [@lybekk](https://github.com/lybekk)
+- [@stutstev](https://github.com/stutstev)
+- [@EdwardD808](https://github.com/EdwardD808)
+- [@itsseanl](https://github.com/itsseanl)
+- [@twlswan](https://github.com/twlswan)
+- [@remram44](https://github.com/remram44)
+- [@ADS-Fund](https://github.com/ADS-Fund)
+- [@jjtseng93](https://github.com/jjtseng93)
+- [@nouraellm](https://github.com/nouraellm)
+- [@aspyct](https://github.com/aspyct)
+- [@bona-ws](https://github.com/bona-ws)
+
+### Termux App 贡献者
+
+感谢以下为 termux-app 做出贡献的开发者：
+
+- [@agnostic-apollo](https://github.com/agnostic-apollo)
+- [@fornwall](https://github.com/fornwall)
+- [@Grimler91](https://github.com/Grimler91)
+- [@maoabc](https://github.com/maoabc)
+- [@robertvandeneynde](https://github.com/robertvandeneynde)
+- [@trygveaa](https://github.com/trygveaa)
+- [@tareksander](https://github.com/tareksander)
+- [@xqdoo00o](https://github.com/xqdoo00o)
+- [@landfillbaby](https://github.com/landfillbaby)
+- [@hannesa2](https://github.com/hannesa2)
+- [@Quasic](https://github.com/Quasic)
+- [@whydoubt](https://github.com/whydoubt)
+- [@mklein994](https://github.com/mklein994)
+- [@rakslice](https://github.com/rakslice)
+- [@michalbednarski](https://github.com/michalbednarski)
+- [@thunder-coding](https://github.com/thunder-coding)
+- [@x0b](https://github.com/x0b)
+- [@VinDeville](https://github.com/VinDeville)
+- [@pvagner](https://github.com/pvagner)
+- [@friederbluemle](https://github.com/friederbluemle)
+- [@dkramer95](https://github.com/dkramer95)
+- [@utzcoz](https://github.com/utzcoz)
+- [@nikam14](https://github.com/nikam14)
+- [@easyaspi314](https://github.com/easyaspi314)
+- [@kzlin129](https://github.com/kzlin129)
+- [@tomty89](https://github.com/tomty89)
+- [@SDRausty](https://github.com/SDRausty)
+- [@Archenoth](https://github.com/Archenoth)
+- [@Auxilus](https://github.com/Auxilus)
+- [@quite](https://github.com/quite)
+- [@robertkirkman](https://github.com/robertkirkman)
+- [@kdrag0n](https://github.com/kdrag0n)
+- [@rozPierog](https://github.com/rozPierog)
+- [@moneytoo](https://github.com/moneytoo)
+- [@MatanZ](https://github.com/MatanZ)
+- [@Nickoriginal](https://github.com/Nickoriginal)
+- [@nishithkhanna](https://github.com/nishithkhanna)
+- [@RangerMauve](https://github.com/RangerMauve)
+- [@sachac](https://github.com/sachac)
+- [@Sandelinos](https://github.com/Sandelinos)
+- [@bumper314](https://github.com/bumper314)
+- [@Sushrut1101](https://github.com/Sushrut1101)
+- [@TpmKranz](https://github.com/TpmKranz)
+- [@TotalCaesar659](https://github.com/TotalCaesar659)
+- [@aviraxp](https://github.com/aviraxp)
+- [@Young-Lord](https://github.com/Young-Lord)
+- [@0xXA](https://github.com/0xXA)
+- [@PolpOnline](https://github.com/PolpOnline)
+- [@the-blank-x](https://github.com/the-blank-x)
+- [@cn00](https://github.com/cn00)
+- [@daywalk3r666](https://github.com/daywalk3r666)
+- [@doubleblinddoubleblinddoubleblind](https://github.com/doubleblinddoubleblinddoubleblind)
+- [@iamahuman](https://github.com/iamahuman)
+- [@l-jonas](https://github.com/l-jonas)
+- [@neverwin](https://github.com/neverwin)
+- [@scarf005](https://github.com/scarf005)
+- [@hisirdox](https://github.com/hisirdox)
+- [@aribmuhtasim](https://github.com/aribmuhtasim)
+- [@AChep](https://github.com/AChep)
+- [@danog](https://github.com/danog)
+- [@Dvd-Znf](https://github.com/Dvd-Znf)
+- [@Edontin](https://github.com/Edontin)
+- [@EduardDurech](https://github.com/EduardDurech)
+- [@EdwardBetts](https://github.com/EdwardBetts)
+- [@ezhd](https://github.com/ezhd)
+- [@evelikov](https://github.com/evelikov)
+- [@evg-zhabotinsky](https://github.com/evg-zhabotinsky)
+- [@fmeum](https://github.com/fmeum)
+- [@obfusk](https://github.com/obfusk)
+- [@zevv](https://github.com/zevv)
+- [@jasonjyu](https://github.com/jasonjyu)
+- [@jeansch](https://github.com/jeansch)
+- [@krobelus](https://github.com/krobelus)
+- [@xJonathanLEI](https://github.com/xJonathanLEI)
+- [@debugrr](https://github.com/debugrr)
+- [@joshtriplett](https://github.com/joshtriplett)
+- [@kevin-canadian](https://github.com/kevin-canadian)
+- [@2096779623](https://github.com/2096779623)
+- [@Kruna1Pate1](https://github.com/Kruna1Pate1)
+- [@lotheac](https://github.com/lotheac)
+
+### Termux Packages 贡献者
+
+感谢以下为 termux-packages 做出贡献的开发者：
+
+- [@xtkoba](https://github.com/xtkoba)
+- [@Biswa96](https://github.com/Biswa96)
+- [@twaik](https://github.com/twaik)
+- [@licy183](https://github.com/licy183)
+- [@TomJo2000](https://github.com/TomJo2000)
+- [@truboxl](https://github.com/truboxl)
+- [@MrAdityaAlok](https://github.com/MrAdityaAlok)
+- [@finagolfin](https://github.com/finagolfin)
+- [@Maxython](https://github.com/Maxython)
+- [@BullyMaguire-lol](https://github.com/BullyMaguire-lol)
+- [@sylirre](https://github.com/sylirre)
+- [@its-pointless](https://github.com/its-pointless)
+- [@tqfx](https://github.com/tqfx)
+- [@stephengroat](https://github.com/stephengroat)
+- [@kcubeterm](https://github.com/kcubeterm)
+- [@pvonmoradi](https://github.com/pvonmoradi)
+- [@Neo-Oli](https://github.com/Neo-Oli)
+- [@librehat](https://github.com/librehat)
+- [@Wetitpig](https://github.com/Wetitpig)
+- [@vishalbiswas](https://github.com/vishalbiswas)
+- [@creepy-pasta101](https://github.com/creepy-pasta101)
+- [@knyipab](https://github.com/knyipab)
+- [@zorro](https://github.com/zorro)
+- [@sabamdarif](https://github.com/sabamdarif)
+- [@s00se](https://github.com/s00se)
+- [@ifurther](https://github.com/ifurther)
+- [@tjhexf](https://github.com/tjhexf)
+- [@Yonle](https://github.com/Yonle)
+- [@vaites](https://github.com/vaites)
+- [@valpogus](https://github.com/valpogus)
+- [@FreddieOliveira](https://github.com/FreddieOliveira)
+- [@asumbek](https://github.com/asumbek)
+- [@AminurAlam](https://github.com/AminurAlam)
+- [@JesusChapman](https://github.com/JesusChapman)
+- [@T-Dynamos](https://github.com/T-Dynamos)
+- [@priyanujgogoi-28](https://github.com/priyanujgogoi-28)
+- [@ian4hu](https://github.com/ian4hu)
+- [@Mause](https://github.com/Mause)
+- [@CHIZI-0618](https://github.com/CHIZI-0618)
+- [@Freed-Wu](https://github.com/Freed-Wu)
+- [@joakim-noah](https://github.com/joakim-noah)
+- [@flosnvjx](https://github.com/flosnvjx)
+- [@kawanakaiku](https://github.com/kawanakaiku)
+- [@PeroSar](https://github.com/PeroSar)
+- [@waruqi](https://github.com/waruqi)
+- [@Hax4us](https://github.com/Hax4us)
+- [@franciscod](https://github.com/franciscod)
+- [@3ls-it](https://github.com/3ls-it)
+- [@Dawimpy](https://github.com/Dawimpy)
+- [@Juhan280](https://github.com/Juhan280)
+- [@kinke](https://github.com/kinke)
+- [@pranav10780](https://github.com/pranav10780)
+- [@phcoder](https://github.com/phcoder)
+- [@PiprTuff](https://github.com/PiprTuff)
+- [@shadmansaleh](https://github.com/shadmansaleh)
+- [@PChaicot](https://github.com/PChaicot)
+- [@kcotugno](https://github.com/kcotugno)
+- [@podsvirov](https://github.com/podsvirov)
+- [@robertvalik](https://github.com/robertvalik)
+- [@richboss](https://github.com/richboss)
+- [@tstein](https://github.com/tstein)
+- [@schardev](https://github.com/schardev)
+- [@alexytomi](https://github.com/alexytomi)
+- [@cnjhb](https://github.com/cnjhb)
+- [@okhex](https://github.com/okhex)
+- [@Rudloff](https://github.com/Rudloff)
+- [@IntinteDAO](https://github.com/IntinteDAO)
+- [@ravener](https://github.com/ravener)
+- [@gavinhoward](https://github.com/gavinhoward)
+- [@Deshdeepak1](https://github.com/Deshdeepak1)
+- [@leap0x7b](https://github.com/leap0x7b)
+- [@qwerty12](https://github.com/qwerty12)
+- [@laurentlbm](https://github.com/laurentlbm)
+- [@pgaskin](https://github.com/pgaskin)
+- [@TheBrokenRail](https://github.com/TheBrokenRail)
+- [@dev-bz](https://github.com/dev-bz)
+- [@mrsrimar22](https://github.com/mrsrimar22)
+- [@togashigreat](https://github.com/togashigreat)
+- [@dead10ck](https://github.com/dead10ck)
+- [@0x1ACA663](https://github.com/0x1ACA663)
+- [@sk0kanik](https://github.com/sk0kanik)
+- [@Ludea](https://github.com/Ludea)
+- [@craigcomstock](https://github.com/craigcomstock)
+- [@fjl](https://github.com/fjl)
+
+### 其他项目致谢
+
+- [proot](https://github.com/proot-me/proot) - 用户空间实现的 chroot
 - [proot-distro](https://github.com/termux/proot-distro) - proot 发行版管理器
-  - 贡献者: https://github.com/termux/proot-distro/graphs/contributors
-
-### 内核相关
-
-- [AnyKernel3](https://github.com/osm0sis/AnyKernel3) - 通用内核打包工具
-  - 作者: osm0sis
-  - 贡献者: https://github.com/osm0sis/AnyKernel3/graphs/contributors
-
+- [AnyKernel3](https://github.com/osm0sis/AnyKernel3) - 通用内核打包工具 (作者: osm0sis)
 - [AOSP](https://source.android.com/) - Android 开源项目
-  - 工具链: https://android.googlesource.com/platform/prebuilts/
-
-### 编译工具
-
 - [Clang/LLVM](https://clang.llvm.org/) - C/C++ 编译器
-  - 贡献者: https://github.com/llvm/llvm-project/graphs/contributors
-
 - [GCC](https://gcc.gnu.org/) - GNU 编译器集合
-  - 贡献者: https://gcc.gnu.org/git/?p=gcc.git;a=summary
-
-### 社区贡献
-
-感谢以下社区成员的贡献和支持：
-- 所有提交 Issue 和 PR 的用户
-- 测试和反馈的社区成员
-- 文档翻译者
 
 ## 免责声明
 
