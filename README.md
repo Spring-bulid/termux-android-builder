@@ -21,12 +21,14 @@
 
 ### 1. 安装 Termux
 
-从 F-Droid 或 GitHub 下载安装 Termux 应用。
+从 F-Droid 或 GitHub 下载安装 Termux 应用：
+- F-Droid: https://f-droid.org/packages/com.termux/
+- GitHub: https://github.com/termux/termux-app/releases
 
 ### 2. 克隆此仓库
 
 ```bash
-git clone https://github.com/your-username/termux-android-builder.git
+git clone https://github.com/Spring-bulid/termux-android-builder.git
 cd termux-android-builder
 ```
 
@@ -71,6 +73,7 @@ termux-android-builder/
 ├── config/
 │   ├── kernel_defconfig    # 默认内核配置
 │   └── toolchain.env       # 工具链环境变量
+├── LICENSE                 # GPL-3.0 许可证
 └── README.md               # 使用说明
 ```
 
@@ -199,15 +202,66 @@ swapon /sdcard/swapfile
 
 ## 许可证
 
-MIT License
+本项目采用 **GNU General Public License v3.0** 许可证。
+
+详见 [LICENSE](LICENSE) 文件。
 
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
 
+### 贡献者
+
+感谢所有为本项目做出贡献的人！
+
+- **Spring-bulid** - 项目创建者和维护者
+
 ## 致谢
 
+### 官方项目
+
 - [Termux](https://termux.com/) - Android 上的终端模拟器
+  - GitHub: https://github.com/termux/termux-app
+  - 贡献者: https://github.com/termux/termux-app/graphs/contributors
+
+- [Termux Packages](https://github.com/termux/termux-packages) - Termux 软件包仓库
+  - 贡献者: https://github.com/termux/termux-packages/graphs/contributors
+
 - [proot](https://proot-me.github.io/) - 用户空间实现的 chroot
+  - GitHub: https://github.com/proot-me/proot
+  - 贡献者: https://github.com/proot-me/proot/graphs/contributors
+
+- [proot-distro](https://github.com/termux/proot-distro) - proot 发行版管理器
+  - 贡献者: https://github.com/termux/proot-distro/graphs/contributors
+
+### 内核相关
+
 - [AnyKernel3](https://github.com/osm0sis/AnyKernel3) - 通用内核打包工具
+  - 作者: osm0sis
+  - 贡献者: https://github.com/osm0sis/AnyKernel3/graphs/contributors
+
 - [AOSP](https://source.android.com/) - Android 开源项目
+  - 工具链: https://android.googlesource.com/platform/prebuilts/
+
+### 编译工具
+
+- [Clang/LLVM](https://clang.llvm.org/) - C/C++ 编译器
+  - 贡献者: https://github.com/llvm/llvm-project/graphs/contributors
+
+- [GCC](https://gcc.gnu.org/) - GNU 编译器集合
+  - 贡献者: https://gcc.gnu.org/git/?p=gcc.git;a=summary
+
+### 社区贡献
+
+感谢以下社区成员的贡献和支持：
+- 所有提交 Issue 和 PR 的用户
+- 测试和反馈的社区成员
+- 文档翻译者
+
+## 免责声明
+
+本项目仅供学习和研究使用。使用本工具编译和刷入内核可能导致设备损坏，请自行承担风险。
+
+---
+
+**Made with ❤️ by Spring-bulid**
