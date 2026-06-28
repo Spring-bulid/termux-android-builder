@@ -1,0 +1,44 @@
+# Android 内核编译默认配置
+
+# 内核名称
+KERNEL_NAME="Android Kernel"
+
+# 默认 defconfig
+DEFAULT_DEFCONFIG="vendor/defconfig"
+
+# 编译线程数
+DEFAULT_THREADS=4
+
+# 架构
+ARCH=arm64
+
+# 交叉编译前缀
+CROSS_COMPILE=aarch64-linux-android-
+
+# Clang 编译器
+CC=clang
+CXX=clang++
+
+# 链接器
+LD=ld.lld
+
+# 其他工具
+AR=llvm-ar
+NM=llvm-nm
+OBJCOPY=llvm-objcopy
+OBJDUMP=llvm-objdump
+STRIP=llvm-strip
+
+# 内核镜像格式
+KERNEL_IMAGE="Image.gz"
+
+# 内核压缩选项
+COMPRESSION_OPTIONS=(
+    "--gzip"
+    "--lz4"
+    "--lzma"
+    "--lzo"
+)
+
+# 默认压缩方式
+DEFAULT_COMPRESSION="gzip"
